@@ -1,7 +1,7 @@
 <a href="https://wordlift.io"><img src="img/WordLift__logo--5.png"/></a>
 
 ## WordLift ROADMAP 2018
-#### AI-powered ==SEO==
+#### AI-powered SEO
 ###### Created by the [WordLift Team (@wordliftit)](https://twitter.com/wordliftit)
 
 Welcome 🖖! This repository contains the [WordLift](https://wordlift.io) roadmap for 2018.
