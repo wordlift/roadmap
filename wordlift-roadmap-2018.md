@@ -46,7 +46,7 @@
 - **11.4%** revenue monthly growth (:clap:)
 <br/>
 <p align="center">
-<img src="/Users/cyberandy/Desktop/presentation-wl-2018/img/revenue-growth.png">
+<img src="img/revenue-growth.png">
 </p>
 
 ---
@@ -77,7 +77,7 @@
 ### ==Linked Data== will continue to grow ==exponentially== 
 <p align="center">
 
-<img src="/Users/cyberandy/Desktop/presentation-wl-2018/img/lod-growth.png">
+<img src="img/lod-growth.png">
 </p>
 
 	LINKED OPEN DATA NODES OVER TIME
@@ -127,7 +127,7 @@
 
 <p align="center">
 
-<img src="/Users/cyberandy/Desktop/presentation-wl-2018/img/vision-diagram.png">
+<img src="img/vision-diagram.png">
 
 </p>
 
@@ -244,7 +244,7 @@
 
 <p align="center">
 
-<img src="/Users/cyberandy/Desktop/presentation-wl-2018/img/initiatives-2018.png">
+<img src="img/initiatives-2018.png">
 
 </p>
 
@@ -261,7 +261,7 @@
 ||**WordLift APIs** ||
 ---
 
-# ![](/Users/cyberandy/Desktop/presentation-wl-2018/img/wllogo-white.png)
+# ![](img/wllogo-white.png)
 
 ### You can find more details 
 #### in the ==roadmap== document  :bookmark_tabs:
@@ -297,5 +297,5 @@
 - ==**Q&A**== content extraction and ==**ChatPal**== by Redlink
 
 ---
-# ![](/Users/cyberandy/Desktop/presentation-wl-2018/img/wllogo-white.png)
+# ![](img/wllogo-white.png)
 ## ==Thank== You!
