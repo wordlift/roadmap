@@ -22,7 +22,7 @@ https://github.com/insideout10/wordlift-plugin/
 ## Contributing
 
 The roadmap is an open-source project as for the rest of our technology and community participation is encouraged.
-If you'd like to contribute, please follow the [Contributing Guidelines](https://github.com/insideout10/wordlift-plugin/edit/develop/CONTRIBUTING.md).
+If you'd like to contribute, please follow the [Contributing Guidelines](https://github.com/insideout10/wordlift-plugin/blob/develop/CONTRIBUTING.md).
 
 ## License
 
