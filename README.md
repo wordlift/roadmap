@@ -10,7 +10,6 @@ Welcome 🖖! This repository contains the [WordLift](https://wordlift.io) roadm
 
 - [Presentation in Markdown](https://github.com/wordlift/roadmap/blob/master/wordlift-roadmap-2018.md)
 - [Presentation in PDF](https://github.com/wordlift/roadmap/blob/master/wordlift-roadmap-2018.pdf)
-- [Document on Google Drive](https://docs.google.com/document/d/16Is1RpYO-2PaSKrElFr5_ky1p7kvcSQkiaySWfRQUi0/edit?usp=sharing)
 
 Reference documentation for the plugin can be found at:
 - http://docs.wordlift.io/
