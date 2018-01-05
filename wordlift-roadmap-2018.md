@@ -248,14 +248,6 @@
 
 ---
 
-# ![](img/wllogo-white.png)
-
-### You can find more details 
-#### in the ==roadmap== document  :bookmark_tabs:
-#### [on Google Drive](https://docs.google.com/document/d/16Is1RpYO-2PaSKrElFr5_ky1p7kvcSQkiaySWfRQUi0/edit?usp=sharing)
-
----
-
 # ==5.== Planning and Releases
 
 ---
