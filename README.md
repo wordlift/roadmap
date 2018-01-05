@@ -1,5 +1,6 @@
 <a href="https://wordlift.io"><img src="img/WordLift__logo--5.png"/></a>
 </br>
+</br>
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/wordlift/wordlift)<br/>
 
 ## WordLift ROADMAP 2018
