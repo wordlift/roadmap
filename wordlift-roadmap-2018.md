@@ -135,11 +135,10 @@
 # In a nutshell :chestnut: here is what we can  do 
 
 1. **Make WordLift** ==**easy to use**== and ==**agentive**== (*weekly digests*, *dashboard*, ...) :point_right: we need to *create* and *nurture* an **==open channel==** with our clients
-2. Focus on `VIP Clients` and **end-to-end services** on top of ==**WordLift**== and ==**WooRank**==
+2. **Test new algos and tactics** on `selected clients` and `beta testers` for both ==**WordLift**== and ==**WooRank**==
 3. **Train clients on the technology** and always be `innovative`
-4. Bring ==**WordLift Cloud**== to ==**WooRank**==  
+4. Make ==**WordLift Cloud**== available for anyone outside of WordPress
 5. **Make ==websites talk==**
-6. Build the **==Italian market==**
 ---
 
 <!-- page_number: false -->
@@ -204,11 +203,10 @@
 <!-- *template: invert -->
 # Upgrading 2018
 
-1. **provide ==top-notch SEO services==** to `VIP clients`  
-2. **grow** ==**active installs**== to **600** (including *Cloud* and *APIs*) 
-3. **go live** with **==WordLift Cloud==** and a **==streamlined user experience==**
-4. **do ==magic==** with **WooRank** by combining `expertise`, `tacticts` and `technology`
-5. **launch a ==chatbot companion==** to ==**make websites talk**== using structured data 
+1. **be there** when our `clients` need to **improve their marketing strategy**
+2. **go live** with **==WordLift Cloud==** 
+3. **do ==magic==** with **WooRank** by combining `expertise`, `tacticts` and `technology`
+4. **launch a ==chatbot companion==** to ==**make websites talk**== using structured data 
 
 ---
 <!-- page_number: false -->
@@ -249,17 +247,6 @@
 </p>
 
 ---
-<!-- *template: invert -->
-
-|Winners| Losers | Big Bets |Maybes| 
-|:--|:--|:--|:--|
-|==**WooCommerce**== integration|**Gutenberg** |**==Making Websites Talk==**|**Semantic Analytics**|
-|==**Batch Analysis**==|**Instant reward** |**==WordLift Dashboard==**|
-||**Evaluate Structured Data** |**==WordLift Cloud & New Widgets==**|
-||**Chatbot for support** ||
-||**WordLift Freemium** ||
-||**WordLift APIs** ||
----
 
 # ![](img/wllogo-white.png)
 
@@ -292,7 +279,7 @@
 
 - ==**Content summarization**== this is **crucial** for chatbot and could be also a solution to `missing meta descriptions`
 - ==**Conversational UIs**== and ==**Voice Search**==  to improve the engagement on content or to help users find it 
-- **Automatic ==Image captioning==** for `missing alt tags`
+- **Automatic ==Image captioning==** for `missing alt tags` and for a better organization of the media library
 - **==Content crawling==** for `vocabulary seeding` (feeding the graph with content crawled from the web)
 - ==**Q&A**== content extraction and ==**ChatPal**== by Redlink
 
