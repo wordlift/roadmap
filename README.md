@@ -16,7 +16,8 @@ Reference documentation for the plugin can be found at:
 
 ## Development
 
-The code of the **WordLift plugin** is availble in the *Insideout10* repository:
+- **[Roadmap overview](https://github.com/wordlift/roadmap/projects/1)** in a Kanban board 
+- The code of the **WordLift plugin** is availble in the *Insideout10* repository:
 https://github.com/insideout10/wordlift-plugin/
 
 ## Contributing
